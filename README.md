@@ -1,4 +1,4 @@
-# Carbon Credits Startup Feasibility Study
+# Carbon Credits Feasibility Study
 
 This repository contains all the relevant research data and findings of our feasibility study for a startup dedicated to capturing and selling carbon credits. The study is divided into five key areas:
 
