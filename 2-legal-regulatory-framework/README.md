@@ -2,6 +2,17 @@
 
 Investigate the legal and regulatory aspects of carbon credits. This would involve understanding international, national, and local laws and regulations concerning carbon credits.
 
+Areas of Study:
+- Argentina
+- Latin America
+- World
+
+General Questions:
+- Company Benchmarking.
+- What references do I already know?
+- Who do I know that could answer these questions or give me reference about them? 
+- Identify key actors and stakeholders.
+
 Questions to investigate:
 
     What are the international laws and agreements concerning carbon credits?
