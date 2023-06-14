@@ -198,3 +198,21 @@ https://www.cronista.com/infotechnology/it-business/tres-empresas-argentinas-ent
 
 
 
+Meet
+Peter: 
+Compensations Market. Regulated or voluntary. 
+Tope y canje -> Como se establece ese tope.
+Acuerdo de Paris/Kyoto limite 2030.
+Registro. 
+CORSIA
+
+
+Sebas: 
+The carbon credit is calculated on the differential capturated over time. Not on the tree itelf. Clean Development Mechanism.
+Como crear el credito de carbono. Por tipo de proyecto, certificadora.
+Componentes estrategicos: Tipo de proyecto, certificadoras, instrumento financiero.
+
+
+Preguntas?
+- A que mercados podemos entrar en argentina? Que certificadoras tiene el sector forestal? -> REDD+
+
