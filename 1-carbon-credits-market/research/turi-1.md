@@ -25,6 +25,7 @@ Research Questions:
 #### What references do I already know?
 
 * Carbon Offsets: Last Week Tonight with John Oliver (HBO) https://www.youtube.com/watch?v=6p8zAbFKpW0
+* NCX: https://ncx.com/
 * Carbon Standards in 2021 https://www.youtube.com/watch?v=tdxQWZ2Io0s
 * Carbon Credits on the Blockchain 2022: https://www.youtube.com/watch?v=VsPbPC7BuII
 
