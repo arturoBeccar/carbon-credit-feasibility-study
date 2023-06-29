@@ -9,7 +9,6 @@ Areas of Study:
 
 General Questions:
 - What references do I already know?
-https://www.youtube.com/watch?v=6p8zAbFKpW0
 - Who do I know that could answer these questions or give me reference about them? 
 - Identify key actors and stakeholders.
 
@@ -23,6 +22,11 @@ Research Questions:
 
 ## Summary of Findings
 
+#### What references do I already know?
+
+* Carbon Offsets: Last Week Tonight with John Oliver (HBO) https://www.youtube.com/watch?v=6p8zAbFKpW0
+* Carbon Standards in 2021 https://www.youtube.com/watch?v=tdxQWZ2Io0s
+* Carbon Credits on the Blockchain 2022: https://www.youtube.com/watch?v=VsPbPC7BuII
 
 ### 1. What is a carbon credit and how does it work?
 
