@@ -7,5 +7,6 @@ This repository contains all the relevant research data and findings of our feas
 3. Carbon Capture and Storage (CCS) Technologies
 4. Carbon Credit Verification and Certification
 5. Business Model and Strategy
+6. Apply this knowledge to a case study
 
 Each area of study includes a summary of findings, relevant research documents, and useful resources.
