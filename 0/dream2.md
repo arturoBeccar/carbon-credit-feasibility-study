@@ -25,6 +25,9 @@ Cada K días, el Cientifico de Datos hace un reporte en el que cruza los tres or
 
 # Pregunta
 Teniendo todos estos datos, y capacidad de procesarlos,
-- A que certificadora de créditos de cárbono o [offsets](https://www.youtube.com/watch?v=6p8zAbFKpW0) me conviene aplicar para obtener un credito de carbono?
-- Que tramites tengo que en argentina?
+- A que certificadora de créditos de cárbono o [offsets](https://www.youtube.com/watch?v=6p8zAbFKpW0) me conviene aplicar para obtener un credito de carbono? Eg: Verra o Gold Standard.
+- Que nos pide cada certificadora hoy en dia para certificar creditos de carbono forestales? 
+- Los proyectos forestales que fueron aprobados por alguna certificadora, como midieron la calidad de la forestacion? Como cumplieron con los requicitos de la certificadora? Cada cuanto tienen que medir de vuelta? Eg: https://ncx.com/ 
+- Las certificadoras te mandan alguien que mide? Que mide esa persona?
+- Que tramites tengo que en Argentina?
 - Que tramites tengo que hacer afuera?
