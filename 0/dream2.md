@@ -23,7 +23,7 @@ Cuento con un Cientifico de Datos, que puede cruzar los datos y encontrar anomal
 
 Cada K días, el Cientifico de Datos hace un reporte en el que cruza los tres origines de datos, reporta anomalias y cuenta cuantos árboles se detectaron correctamenente segun las tres fuentes. Este reporte es que quiero usar para certificar creditos de carbono o carbon offests.
 
-# Pregunta
+# Preguntas de Referencia
 Teniendo todos estos datos, y capacidad de procesarlos,
 - A que certificadora de créditos de cárbono o [offsets](https://www.youtube.com/watch?v=6p8zAbFKpW0) me conviene aplicar para obtener un credito de carbono? Eg: Verra o Gold Standard.
 - Que nos pide cada certificadora hoy en dia para certificar creditos de carbono forestales? 
@@ -31,3 +31,8 @@ Teniendo todos estos datos, y capacidad de procesarlos,
 - Las certificadoras te mandan alguien que mide? Que mide esa persona?
 - Que tramites tengo que en Argentina?
 - Que tramites tengo que hacer afuera?
+
+# Tarea
+- Ver este video: https://www.youtube.com/watch?v=6p8zAbFKpW0
+- Tratar de determinar como certificaron y con que certificadora estos: https://ncx.com/
+- Leer todo vuelta suponiendo que esto un cliente que quiere hacer algo como NCX en argentina pero mejor.
