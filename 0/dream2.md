@@ -19,10 +19,12 @@ Cada K días, recibo una imagen satelital del campo, que incluye coordenadas GPS
 
 ## Procesamiento de Datos
 
-Cuento con un Cientifico de Datos, que puede cruzar los datos y encontrar anomalias. Toleramos cierto error en las mediciones (se descartan a lo sumo k de N arboles).
+Cuento con un Cientifico de Datos, que puede cruzar los datos y encontrar anomalias. 
+
+Cada K días, el Cientifico de Datos hace un reporte en el que cruza los tres origines de datos, reporta anomalias y cuenta cuantos árboles se detectaron correctamenente segun las tres fuentes. Este reporte es que quiero usar para certificar creditos de carbono o carbon offests.
 
 # Pregunta
 Teniendo todos estos datos, y capacidad de procesarlos,
-- A que certificadora de créditos de cárbono o offsets me conviene aplicar para obtener un credito de carbono?
+- A que certificadora de créditos de cárbono o [offsets](https://www.youtube.com/watch?v=6p8zAbFKpW0) me conviene aplicar para obtener un credito de carbono?
 - Que tramites tengo que en argentina?
 - Que tramites tengo que hacer afuera?
